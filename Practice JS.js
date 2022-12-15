@@ -14,6 +14,13 @@ else {
 }
 
 
-console.log(whichSchool(15))
 
+const raining = true 
+const cold = false 
 
+if (raining) {
+  console.log ('Dont forget your umbrella')
+}
+if (cold) {
+  console.log('Wear a scarf')
+}
